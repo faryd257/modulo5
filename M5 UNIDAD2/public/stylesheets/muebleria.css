@@ -1,0 +1,140 @@
+
+body {
+    background: url(../images/fondo.jpg)no-repeat;
+    background-size: cover;
+    width: 99%;
+    color:#efefef;
+}
+
+
+
+
+footer {
+    background-color: gray;
+}
+
+h1,
+h2 {
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.hero {
+    background: url(../images/pp.jpg)no-repeat;
+    background-size: cover;
+    height: 50vh;
+    min-height: 600px;
+    color: white;
+}
+
+.parrr{
+    font-family: 'Open Sans', sans-serif; 
+    background-color: rgba(28, 24, 24, 0.5);
+    padding: 10px;
+    display: inline-block;
+    
+
+}
+
+.lista-novedades {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.tt{color: #efefef;
+
+}
+
+.lista-novedades li {
+    margin: 4px 0;
+}
+
+.lista-novedades li a {
+    background-color: rgb(5, 2, 0);
+    font-family: 'Alfa Slab One', cursive;
+    text-decoration: none;
+    font-size: 1.2rem;
+    transition: all .2s ease-in-out;
+    color: beige;
+    display: block
+}
+
+
+
+.lista-novedades li a:hover {
+    color: beige;
+    background-color: #dadada;
+
+}
+
+.lista-novedades li a img {
+
+    height: 80px;
+
+    filter: grayscale();
+
+    width: 60px;
+    transition: all .2s ease-in-out;
+    margin-right: 1rem;
+    opacity: 1;
+
+}
+
+
+
+.lista-novedades li a:hover img {
+    filter: none;
+    margin-right: 1.4rem;
+    opacity: 1;
+}
+
+.historia{background-color: #efefef;
+
+}
+
+
+.testimonios {
+
+    
+    background: url(../images/33.jpg)no-repeat;
+    background-size: cover;
+
+    padding-bottom: 4rem !important;
+}
+
+.testimonio {
+    text-align: center;
+    
+    padding: 79px ;
+
+
+}
+
+.staff {
+    background-color: #efefef;
+}
+
+.mapa iframe {
+
+    width: 100%;
+
+    aspect-ratio: 1.1;
+
+}
+
+.parr{
+    font-family: 'Alfa Slab One', cursive;
+}
+
+.negro{
+
+    color: black;
+}
+
+.prueba{font-family: 'Open Sans', sans-serif; }
+
+.t{
+    font-family: 'Alfa Slab One', cursive;
+     padding-left: 10px;}
+
+     .c{color: wheat;}
